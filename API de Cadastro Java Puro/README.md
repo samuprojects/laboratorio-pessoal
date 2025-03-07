@@ -157,5 +157,3 @@ Este projeto foi criado para fins educacionais e demonstra como construir uma AP
 Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ```
-
-Esse README aborda como rodar a aplicação, os requisitos, e os exemplos de uso. Fique à vontade para ajustar conforme necessário!
